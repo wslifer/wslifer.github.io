@@ -1,4 +1,3 @@
-<style>
 h1 {
     background: purple;
     color: green;
@@ -9,8 +8,7 @@ h3 {
     padding: 20px;
 }
 .pic {
-    border: 20px solid red;
-    height: 30px;
+    border: 15px solid red;
     width: 15px;
+    height: 30px;
 }
-</style>
