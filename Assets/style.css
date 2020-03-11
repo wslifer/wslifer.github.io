@@ -1,6 +1,8 @@
 h1 {
     background: purple;
     color: green;
+    align-content: center;
+    font-size: x-large;
 }
 h3 {
     color: blue;
@@ -9,6 +11,6 @@ h3 {
 }
 .pic {
     border: 15px solid red;
-    width: 15px;
-    height: 30px;
+    width: 150px;
+    height: 300px;
 }
