@@ -9,6 +9,8 @@ h3 {
     padding: 20px;
 }
 .pic {
-    border: crimson solid 100px;
+    border: 20px solid red;
+    height: 30px;
+    width: 15px;
 }
 </style>
