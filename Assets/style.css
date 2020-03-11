@@ -1,0 +1,14 @@
+<style>
+h1 {
+    background: purple;
+    color: green;
+}
+h3 {
+    color: blue;
+    font: bold;
+    padding: 20px;
+}
+.pic {
+    border: crimson solid 100px;
+}
+</style>
