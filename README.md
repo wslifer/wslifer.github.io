@@ -13,7 +13,7 @@ This application provides a user with my portfolio, an about me page, and a page
 
 ## Deployed Application
 
-https://wslifer.github.io/react_portfolio
+https://wslifer.github.io/
 
 ## Contributors
 
