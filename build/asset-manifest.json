@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c8a700e9.chunk.js",
+    "main.js.map": "/static/js/main.c8a700e9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/js/2.a1f6b961.chunk.js": "/static/js/2.a1f6b961.chunk.js",
+    "static/js/2.a1f6b961.chunk.js.map": "/static/js/2.a1f6b961.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d0787093906f3b8f975b8c7a8e805702.js": "/precache-manifest.d0787093906f3b8f975b8c7a8e805702.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.a1f6b961.chunk.js.LICENSE.txt": "/static/js/2.a1f6b961.chunk.js.LICENSE.txt",
+    "static/media/404.png": "/static/media/404.dfe3b56a.png",
+    "static/media/CodingQuiz.png": "/static/media/CodingQuiz.138a9666.png",
+    "static/media/EmployeeTracker.png": "/static/media/EmployeeTracker.646e62e2.png",
+    "static/media/ItTakesAVillage.png": "/static/media/ItTakesAVillage.43987053.png",
+    "static/media/ProjectYou.png": "/static/media/ProjectYou.47764d9a.png",
+    "static/media/Quarantinis.PNG": "/static/media/Quarantinis.21041ff4.PNG",
+    "static/media/TeamProfileGenerator.png": "/static/media/TeamProfileGenerator.7449fafc.png",
+    "static/media/profilepicture.png": "/static/media/profilepicture.edeb1428.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e312f208.js",
+    "static/js/2.a1f6b961.chunk.js",
+    "static/js/main.c8a700e9.chunk.js"
+  ]
+}
