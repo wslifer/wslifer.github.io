@@ -32,7 +32,7 @@ export default function About() {
 
   return (
     <Grid container spacing={3}>
-      <Grid item xs={6}>
+      <Grid item xs={12} sm={6} md={4}>
         <Card item xs={6}>
           <CardMedia
             className={style.picture}
@@ -41,7 +41,7 @@ export default function About() {
           />
         </Card>
       </Grid>
-      <Grid item xs={6}>
+      <Grid item xs={12}>
         <CardContent item xs={6} className={style.about}>
           <Typography variant="h6">
             Hello, and welcome to my portfolio!{" "}
@@ -49,8 +49,8 @@ export default function About() {
           <hr />
           <Typography variant="body1" className={style.textArea}>
             My name is Wesley Eric Slifer and I am a web developer always in
-            training. I currently am enrolled in the KU Coding Bootcamp Cohort
-            of August 2020.
+            training. I graduated from the KU Coding Bootcamp Cohort of August
+            2020.
           </Typography>
           <Typography variant="body1" className={style.textArea}>
             I am a self-driven, motivated, hard worker who is always excited to
