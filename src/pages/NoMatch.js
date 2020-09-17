@@ -27,7 +27,7 @@ export default function NoMatch() {
   const style = useStyles();
 
   return (
-    <Grid item xs>
+    <Grid item xs={12} sm={6} md={4}>
       <Card className={style.card}>
         <CardContent>404! Page Not Found!</CardContent>
         <CardMedia
