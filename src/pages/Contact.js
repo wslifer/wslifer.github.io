@@ -34,7 +34,7 @@ export default function Contact() {
   return (
     <Grid container spacing={3}>
       <Grid item xs={12} sm={6} md={4}>
-        <Card item xs className={style.contact}>
+        <Card item xs={6} className={style.contact}>
           <CardContent>
             <Button
               className={style.button}
