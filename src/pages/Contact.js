@@ -1,9 +1,6 @@
 import React from "react";
-import Grid from "@material-ui/core/Grid";
 import { makeStyles } from "@material-ui/core/styles";
-import Card from "@material-ui/core/Card";
-import CardContent from "@material-ui/core/CardContent";
-import Button from "@material-ui/core/Button";
+import { Grid, Card, CardContent, Button, Chip } from "@material-ui/core/";
 
 const useStyles = makeStyles({
   contact: {
@@ -22,9 +19,16 @@ const useStyles = makeStyles({
     width: 300,
     height: 75,
     display: "flex",
-    marginTop: 20,
+    marginBottom: 20,
     marginRight: "auto",
     marginLeft: "auto",
+    borderRadius: 20,
+  },
+  chip: {
+    color: "white",
+    background: "#0276aa",
+    display: "flex",
+    justifyContent: "center",
   },
 });
 
@@ -33,7 +37,7 @@ export default function Contact() {
 
   return (
     <Grid container spacing={3}>
-      <Grid item xs={12} sm={6} md={4}>
+      <Grid item xs={12} sm={12} md={12} lg={12}>
         <Card item xs={6} className={style.contact}>
           <CardContent>
             <Button
@@ -57,6 +61,11 @@ export default function Contact() {
             >
               Resume
             </Button>
+            <Chip
+              className={style.chip}
+              size="large"
+              label="Email: wesleyslifer32@gmail.com"
+            />
           </CardContent>
         </Card>
       </Grid>

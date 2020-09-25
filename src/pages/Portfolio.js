@@ -1,5 +1,5 @@
 import React from "react";
-import { Grid, Paper, Button, Typography } from "@material-ui/core";
+import { Grid, Paper, Typography } from "@material-ui/core";
 import Card from "../components/Card";
 import { makeStyles } from "@material-ui/core/styles";
 import quarantinis from "../assets/images/Quarantinis.PNG";
