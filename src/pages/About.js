@@ -32,7 +32,7 @@ export default function About() {
 
   return (
     <Grid container spacing={3}>
-      <Grid item xs={12} sm={6} md={4}>
+      <Grid item xs={12} sm={6} md={6} lg={6}>
         <Card item xs={6}>
           <CardMedia
             className={style.picture}
@@ -41,7 +41,7 @@ export default function About() {
           />
         </Card>
       </Grid>
-      <Grid item xs={12}>
+      <Grid item xs={12} sm={6} md={6} lg={6}>
         <CardContent item xs={6} className={style.about}>
           <Typography variant="h6">
             Hello, and welcome to my portfolio!{" "}
