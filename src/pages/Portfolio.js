@@ -39,7 +39,7 @@ export default function Portfolio() {
                 image={quarantinis}
                 title="Bites and Quarantinis"
                 alt="Project Picture"
-                desc="Group project made with APIs, javascript, and html."
+                desc="Group project made with APIs, JavaScript, and HTML5."
                 repo="https://github.com/wslifer/Project_1"
                 link="https://wslifer.github.io/Project_1/"
                 locked={false}
@@ -53,7 +53,7 @@ export default function Portfolio() {
                 image={projectYou}
                 title="Project You"
                 alt="Project Picture"
-                desc="Group project made with Node.js, Express.js, MySql, Sequelize, and heroku."
+                desc="Group project made with Node.js, Express.js, MySql, Sequelize, and Heroku."
                 repo="https://github.com/wslifer/projectYOU"
                 link="https://projectyou.herokuapp.com/"
                 locked={false}
@@ -67,7 +67,7 @@ export default function Portfolio() {
                 image={itTakesAVillage}
                 title="It Take a Village"
                 alt="Project Picture"
-                desc="Full stack application, utilizing Node.js, Express.js, mongodb, and heroku."
+                desc="Full stack application, utilizing Node.js, Express.js, MongoDB, and Heroku."
                 repo="https://github.com/wslifer/it-takes-a-village"
                 link="https://stormy-thicket-60781.herokuapp.com/"
                 locked={false}
@@ -81,7 +81,7 @@ export default function Portfolio() {
                 image={codingQuiz}
                 title="Coding Quiz"
                 alt="Project Picture"
-                desc="Fun quiz about coding, with high scores!"
+                desc="Fun quiz about coding, with high scores! Made using CSS3, HTML5, and JavaScript."
                 repo="https://github.com/wslifer/coding-quiz"
                 link="https://wslifer.github.io/coding-quiz/"
                 locked={false}
@@ -95,7 +95,7 @@ export default function Portfolio() {
                 image={teamProGen}
                 title="Team Profile Generator"
                 alt="Project Picture"
-                desc="Application using javascript to produce an html page of the team you created."
+                desc="Application using JavaScript to produce an HTML5 page of the team you created."
                 repo="https://github.com/wslifer/team-profile-generator"
                 link="https://drive.google.com/file/d/18gA6ISAoiyxPe_O-hkoqC53sdPB-qQf5/view"
                 locked={false}
@@ -109,7 +109,7 @@ export default function Portfolio() {
                 image={emplTracker}
                 title="Employee Tracker"
                 alt="Project Picture"
-                desc="Application using javascript to keep track of all of your employees and who they report to."
+                desc="Application using JavaScript to keep track of all of your employees and who they report to."
                 repo="https://github.com/wslifer/employee_tracker"
                 link="https://drive.google.com/file/d/1--8FGoylf_rpfDjaK5I4hU7l5jIr2Bo3/view"
                 locked={false}
